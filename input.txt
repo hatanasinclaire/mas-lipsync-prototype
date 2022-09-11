@@ -1,0 +1,9 @@
+# copy and paste dialogue from .rpys here
+# the demo will ignore any lines that don't start with "m " or "extend ". 
+
+    m 1euc "[player], have you ever heard of Ray Bradbury?"
+    m 3euc "He wrote a book called {i}Fahrenheit 451{/i}."
+    m 3eud "It's about a dystopian future where all books are thought as useless and are immediately burned."
+    m 2ekc "I can't imagine a world where knowledge is forbidden and destroyed."
+    m "It seems that there are others that actually hide books to contain free thinking from people."
+    m 2lksdla "Human history has a funny way of repeating itself."
