@@ -34,3 +34,5 @@ You can copy-paste the dialogue label you want to test from a script `.rpy` stra
 ***
 
 Designed for use with [_Monika After Story_](https://github.com/Monika-After-Story/MonikaModDev).
+
+![Visemes chart](https://raw.githubusercontent.com/hatanasinclaire/mas-lipsync-prototype/main/visemes_monika_chart.png)
