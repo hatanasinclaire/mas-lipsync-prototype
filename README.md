@@ -20,7 +20,7 @@ I identify nineteen distinct mouth shapes corresponding to fifty phonemes. Brand
 You can find more information on this prototype [here](https://github.com/Monika-After-Story/MonikaModDev/issues/9509).
 
 <h2>How to use</h2> 
-Two python files are included. `lipsync.py` contains only the mechanism, and `demo.py` is a file you can run to preview how the system works on some arbitrary input.
+Two python files are included. `lipsync.py` contains only the mechanism, and `demo.py` is a file you can run to preview how the system works on some arbitrary input. You will have to run the demo from command line; just type `python demo.py` and it should run automatically off of the input text. 
 
 You can copy-paste the dialogue label you want to test from a script `.rpy` straight into `input.txt`. The demo program should ignore things like tabs, exp codes, and non-dialogue lines so you don't have to worry about trimming them out. 
 
