@@ -1,6 +1,6 @@
 # mas-lipsync-prototype
 
-![example gif](https://cdn.discordapp.com/attachments/836882465599389756/1018422350624084038/lipsync4.gif)
+![example gif](https://user-images.githubusercontent.com/96905447/190082618-8c0ede2a-f854-4bf1-804d-91d5a2a791b6.gif)
 
 ![image](https://user-images.githubusercontent.com/96905447/189517964-b7736874-7999-45ab-87bd-91af4f21997f.png)
 
@@ -35,4 +35,6 @@ You can copy-paste the dialogue label you want to test from a script `.rpy` stra
 
 Designed for use with [_Monika After Story_](https://github.com/Monika-After-Story/MonikaModDev).
 
-![Visemes chart](https://raw.githubusercontent.com/hatanasinclaire/mas-lipsync-prototype/main/visemes_monika_chart.png)
+![Visemes chart (thumbnails are outdated)](https://raw.githubusercontent.com/hatanasinclaire/mas-lipsync-prototype/main/visemes_monika_chart.png)
+
+(art thumbnails are outdated in this chart)
